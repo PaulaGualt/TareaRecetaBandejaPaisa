@@ -1,0 +1,13 @@
+body {
+    background:#f3f4f5 ;
+}
+#título-principal {
+    font-family: Arial; 
+    font-size: 24px;
+    color: black;
+}
+.descripción {
+    font-family: Georgia;
+     font-size: 18px;
+     color:#757575;
+}
